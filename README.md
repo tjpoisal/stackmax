@@ -1,6 +1,6 @@
-# StackMaxx Web App
+# StackMax Web App
 
-StackMaxx is an AI-powered extreme couponing web app designed to help users maximize savings by intelligently stacking coupons, rebates, and loyalty rewards. This is a modern React application built using Vite and styled with Tailwind CSS.
+StackMax is an AI-powered extreme couponing web app designed to help users maximize savings by intelligently stacking coupons, rebates, and loyalty rewards. This is a modern React application built using Vite and styled with Tailwind CSS.
 
 ## 🚀 Features
 
@@ -19,8 +19,8 @@ StackMaxx is an AI-powered extreme couponing web app designed to help users maxi
 
 1. **Clone the repo** (if from GitHub):
    ```bash
-   git clone https://github.com/yourusername/stackmaxx.git
-   cd stackmaxx
+   git clone https://github.com/yourusername/stackmax.git
+   cd stackmax
    ```
 
 2. **Install dependencies**:
