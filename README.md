@@ -1,5 +1,4 @@
-# stackmax
-exrteme couponing web app
+# StackMaxx Web App
 
 StackMaxx is an AI-powered extreme couponing web app designed to help users maximize savings by intelligently stacking coupons, rebates, and loyalty rewards. This is a modern React application built using Vite and styled with Tailwind CSS.
 
@@ -22,3 +21,37 @@ StackMaxx is an AI-powered extreme couponing web app designed to help users maxi
    ```bash
    git clone https://github.com/yourusername/stackmaxx.git
    cd stackmaxx
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**:
+   ```bash
+   npm run build
+   ```
+
+5. **Preview the production build**:
+   ```bash
+   npm run preview
+   ```
+
+## 🌐 Deployment
+
+You can deploy this project on:
+- **Vercel**: Ideal for Next.js/React apps
+- **Netlify**: Works great with Vite and SPA routing
+- **Railway / Render**: For fullstack integration
+
+To connect your IONOS domain (`getstackmax.com`), point the domain to your deployment platform using DNS settings (A record or CNAME).
+
+## 📄 License
+
+MIT License. Copyright © {2025}
